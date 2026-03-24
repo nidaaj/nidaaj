@@ -1,4 +1,4 @@
-<h1>Nida Jamal <br/><a >Azure Administrator</a> | <a >Cloud Engineer</a>
+<h1>Nida Jamal <br/><a >Azure Administrator Associate</a> | <a >Cloud Engineer</a>
 
 <h2>Certifications:</h2>
 
