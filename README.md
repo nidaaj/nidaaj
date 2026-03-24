@@ -22,7 +22,7 @@ Technical Projects / Lab Experience
 - <b>Security best practices (RBAC, Key Vault, managed identities).)</b>
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation]()
 
 - <b>Azure Lab Administrator (Personal Project)</b>
 
