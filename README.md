@@ -11,7 +11,7 @@
 <h2>👨‍💻 Azure Projects:</h2>
 Technical Projects / Lab Experience	
 
-- [<b>Azure Cloud Infrastructure Deployment (IaC Project)</b>](https://github.com/nidaaj/AD-bulk-user-creation-lab)
+- [<b>Active Directory Bulk User Creation Lab (IaC Project)</b>](https://github.com/nidaaj/AD-bulk-user-creation-lab)
 
 - <b>Web Application Deployment</b>
 
