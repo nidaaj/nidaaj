@@ -15,7 +15,7 @@ Technical Projects / Lab Experience
 
 - <b>Web Application Deployment</b>
 
-- <b>Version Control and Automation</b>
+- [<b>Version Control and Automation</b>](https://github.com/nidaaj/Version-Control-Automation-Lab)
 
 - <b>Security and Networking</b>
 
