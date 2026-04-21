@@ -13,6 +13,8 @@ Technical Projects / Lab Experience
 
 - [<b>Azure Infrastructure Project(IaC Project)</b>](https://github.com/nidaaj/azure-infra-project/tree/main)
 
+- [<b>Azure IAM & RBAC lab using Microsoft Entra ID (groups, Azure role assignments, Terraform, and PowerShell)</b>]
+
 - [<b>Active Directory Bulk User Creation Lab</b>](https://github.com/nidaaj/AD-bulk-user-creation-lab)
 
 - <b>Web Application Deployment</b>
@@ -26,7 +28,7 @@ Technical Projects / Lab Experience
 - <b>PowerShell</b>
   
 
-- <b>Azure Lab Administrator (Personal Project)</b>
+- <b>Azure Lab Administrator(Personal Project)</b>
 
 
 
